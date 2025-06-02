@@ -46,5 +46,5 @@ I'm currently working on the following courses/certifications.
 
 * [LinkedIn](https://www.linkedin.com/in/randall-stroup/)
 * [BlueSky](https://bsky.app/profile/mortimus.com)
-* [Mastadon](https://infosec.exchange/@Mortimus)
+* [Mastodon](https://infosec.exchange/@Mortimus)
 * [Blog](https://blog.mortimus.com/) - Someday I'll add to this
