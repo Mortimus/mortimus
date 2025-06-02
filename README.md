@@ -23,8 +23,6 @@ Welcome to my corner of GitHub! I'm a passionate **Offensive Security Profession
 
 ## 📜 Certifications / Awards
 
-I hold the following industry-recognized certifications:
-
 * **Certified Red Team Operator (CRTO)** - [Zero Point Security](https://www.zeropointsecurity.co.uk/start)
 * **Offensive Security Certified Professional (OSCP)** - [Offensive Security](https://www.offsec.com/courses/pen-200/)
 * **Practical Network Penetration Tester (PNPT)** - [TCM Security](https://certifications.tcm-sec.com/pnpt/)
