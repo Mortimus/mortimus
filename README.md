@@ -46,3 +46,7 @@ I'm currently working on the following courses/certifications.
 * [BlueSky](https://bsky.app/profile/mortimus.com)
 * [Mastodon](https://infosec.exchange/@Mortimus)
 * [Blog](https://blog.mortimus.com/) - Someday I'll add to this
+
+## Github Stats
+![Mortimus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortimus&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortimus)
